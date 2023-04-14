@@ -28,10 +28,14 @@ function animateFinsh() {
   width: 100px;
   height: 100px;
 
+  
+  background-color: red;
+  
   border: 2px solid gray;
+
   border-radius: 25px;
 
-  background-color: blue;
+
 
 }
 </style>
