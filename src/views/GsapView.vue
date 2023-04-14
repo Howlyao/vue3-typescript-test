@@ -31,7 +31,7 @@ function animateFinsh() {
   border: 2px solid gray;
   border-radius: 10px;
 
-  background-color: red;
+  background-color: blue;
 
 }
 </style>
