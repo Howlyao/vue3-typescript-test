@@ -27,8 +27,11 @@ function animateFinsh() {
 .box {
   width: 100px;
   height: 100px;
-  background-color: blue;
+
   border: 2px solid gray;
   border-radius: 10px;
+
+  background-color: red;
+
 }
 </style>
