@@ -1,0 +1,1 @@
+@media (min-width: 1024px){.about{min-height:100vh;display:flex;align-items:center}}.container{perspective:800px;height:500px;transform-style:preserve-3d;position:relative}.box-plane{position:absolute;width:100px;height:100px;transform-style:preserve-3d}

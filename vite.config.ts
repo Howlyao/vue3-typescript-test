@@ -25,4 +25,6 @@ export default defineConfig({
     // host: '192.168.32.102',
     // port: 80
   },
+  // base: '/vue3-typescript-test/',
+  base: process.env.NODE_ENV === 'production' ? './' : '/',
 })
