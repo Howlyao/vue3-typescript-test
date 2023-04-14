@@ -18,7 +18,7 @@ onMounted(async () => {
 
   console.log(import.meta.env.MODE)
   let data:string[] = []
-  if (import.meta.env.NODE_ENV === 'production') {
+  if (import.meta.env.MODE === 'production') {
 
     data = ['衬衫', '羊毛衫', '雪纺衫', '裤子', '高跟鞋', '袜子']
   } else {

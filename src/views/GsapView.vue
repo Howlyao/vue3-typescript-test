@@ -28,5 +28,7 @@ function animateFinsh() {
   width: 100px;
   height: 100px;
   background-color: blue;
+  border: 2px solid gray;
+  border-radius: 10px;
 }
 </style>
